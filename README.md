@@ -1,2 +1,1 @@
 # somnia
-somnia testnet
